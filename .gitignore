@@ -1,0 +1,21 @@
+# Arch packaging build artifacts
+*.pkg.tar.*
+*.tar.gz
+*.tar.xz
+*.tar.zst
+src/
+pkg/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Logs & temp files
+*.log
+.DS_Store

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "g502-hub",
+    "upstream": "Ahmedxsaad/g502-hub",
+    "maintainer": "Joy Jasper <0x73757375@gmail.com>",
+    "contributor": "Ahmed Saad",
+    "strategy": "upstream_packaging",
+    "tag_prefix": "v"
+  },
+  {
+    "name": "yunting",
+    "upstream": "nephelesound/yunting",
+    "maintainer": "sudoskys <tururu02 at gmail dot com>",
+    "contributor": "ilovesusu (Joy Jasper) <0x73757375@gmail.com>",
+    "strategy": "bump_pkgver",
+    "tag_prefix": "v"
+  }
+]
